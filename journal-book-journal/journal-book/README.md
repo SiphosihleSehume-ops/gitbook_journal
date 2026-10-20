@@ -21,11 +21,11 @@ I now understnd why Ethereum is adopted a lot and its association with decentral
 
 ## Day 3
 
-* 
+* Today I understood how concensus mechanisms secure and maintain the integrity of the network. I also got to learn about other proofs of stake apart from PoS, PoW. I got introduced to Delegated Proof of Stake (DPoS) which is sometging I was not familiar with in the past. In got to discover the in-depth details of the Tron network and why is it important and how it relates with Ethereum. I came across different terms like Super Representatives (SRs), who participate in producing and validate blocks. Tron's network speed is very fast due to its small group of delegates that handle the validation process which is very interesting.
 
 ## Day 4 
 
-* 
+* Today I dived deep into a another foreign consensus mechanism known as Proof of Authority (PoA) and that it is widely adopted in private blockchains
 
 ## Day 5
 
