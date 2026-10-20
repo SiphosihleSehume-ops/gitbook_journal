@@ -1,0 +1,17 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: WeThinkCode_ Docs
+  structure:
+    - type: section
+      key: section-1
+      title: Journal Book - Journal
+      path: journal-book-journal
+      default: true
+      children:
+        - type: space
+          key: space-1
+          title: Journal Book
+          path: journal-book
+          default: true
+          content:
+            directory: ./journal-book-journal/journal-book
