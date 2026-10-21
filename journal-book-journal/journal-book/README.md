@@ -25,8 +25,18 @@ I now understnd why Ethereum is adopted a lot and its association with decentral
 
 ## Day 4 
 
-* Today I dived deep into a another foreign consensus mechanism known as Proof of Authority (PoA) and that it is widely adopted in private blockchains
+* Today I dived deep into a another foreign consensus mechanism known as Proof of Authority (PoA) and that it is widely adopted in private blockchains. Interesting thing is that every consensus mechanism has its its own pros and cons.
 
 ## Day 5
 
-* 
+* I came across an article on Researchers Testing A Blockchain That Only Quantum Computers can Mine. Interesting how Blockchain technology is now experimenting and testing with quantum computers. Researchers at D-Wave are testing mining through a new consensus method called proof of quantum work (PoQ), achieved through four quantum processors. 
+
+Quantum-based hash generation methods could be a solution to a stagering 176 terawatt=-hours of electricity in the year 2024 alone. 
+
+Its just that quantum computation is expensive. However, PoQ is potentially 1,000 times more effecient than classical mining. Quantum blockchain also solves another key limitation of classical PoW: scalability. 
+
+Interesting takeaways: Applicatiopn-Specific Integrated Circuit (AISC)
+
+
+
+
