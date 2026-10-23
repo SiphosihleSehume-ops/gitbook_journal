@@ -48,10 +48,23 @@ Today I came across a new term called "lightweight" nodes. Since they are light-
 
 Today I got to understand the importance of HYbrid Blockchains. I think they introduce a sense of centralization of some sort. Why do I say that; since some data can be restricted and kept private, it means there is some bit of centralization within the decentralization network of some sort since access is controlled, there is governance since a small group controls the network rules, upgrades, or permissions. Also, validation adds to it since onbly approved nodes are allowed to validate transactions.
 
-## Day 3
+# Day 3
 
 I learn't about a tool called Mermaid, which is a tool to generate diagrams or context visualization.
 
 I also took a deep dive into different types of nodes and how they communicate to each other. I learned that nodes make use of an Internet Protocol or Medium Acess Control addresses to identify one another when transmitting nd processing data. I learnt about the different types of processes that take place between nodes such as data processing and routing and forwarding just to name a few. 
 
 The interesting one is the rouing process because it deals with how the analysis of packeys of data an determining the optimal path to their destination. 
+
+Understood the difference between consensus and validators. Validation preceeed consensus. Consensus involves agreeing on the ordering of of vaidated transactions.
+
+# Day 4
+
+Today I dived deep into the inner workings of blockchain to such as understanding what makes up a block in including the importance of a header and how altering the information stored in a specific block changes the entire hash linking it to the previous block. 
+
+# Day 5 
+
+Today I got to discover that the nonce not only means a number used only once. A nonce is a number miners change to try to find a valid hash. I also got to understand proof of stake fully. I learned that unlike Bitcoin's proof of work, Ethereum's time is fixed. Time in proof of stake Ethereum is divided into slots (12 seconds) and epochs (32 slots). One validator is randomly selected to be a block proposer in every slot. 
+
+This validator is responsible for creating a new block and sending it out to other nodes on te network. Also, at every slot, a committee of validators is randomly chosen, whose votes are used to determine the validity  of the block being proposed. THis knowledge now clarifies the seemingly complex nature of proof of stake consensus mechanism. 
+
