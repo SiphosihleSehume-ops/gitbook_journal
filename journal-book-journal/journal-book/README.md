@@ -67,6 +67,15 @@ Today I dived deep into the inner workings of blockchain to such as understandin
 Today I got to discover that the nonce not only means a number used only once. A nonce is a number miners change to try to find a valid hash. I also got to understand proof of stake fully. I learned that unlike Bitcoin's proof of work, Ethereum's time is fixed. Time in proof of stake Ethereum is divided into slots (12 seconds) and epochs (32 slots). One validator is randomly selected to be a block proposer in every slot. 
 
 This validator is responsible for creating a new block and sending it out to other nodes on te network. Also, at every slot, a committee of validators is randomly chosen, whose votes are used to determine the validity  of the block being proposed. THis knowledge now clarifies the seemingly complex nature of proof of stake consensus mechanism. 
-..
 
+## Week 3
 
+# Day 1
+
+Today I understood got some insight that around proof of stake that challenges Ethereum's existing PoS. In Ethereum, their proof of work is based on random selection relative to the size of the staked ETH. This approach for me raises a bit of concern that challenges the ideal of equal power distribution among validators. 
+
+With this approach at play, individuals with less staked ETH get to be overshadowed by users or organization's with a significantly larger amount of staked ETH. 
+
+This loophole gave me an idea on starting a research campaign where I can learn how to build my own blockchain. With the help of AI, I can cover a lot of ground relativce to searching on traditional websites.
+
+The name of my blockchain is called Dianome Blockchain with native currency DIA or NOM. What we are prioritizing is equal and fair rewards for validators. 
