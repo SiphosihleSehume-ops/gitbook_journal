@@ -76,6 +76,8 @@ Today I understood got some insight that around proof of stake that challenges E
 
 With this approach at play, individuals with less staked ETH get to be overshadowed by users or organization's with a significantly larger amount of staked ETH. 
 
-This loophole gave me an idea on starting a research campaign where I can learn how to build my own blockchain. With the help of AI, I can cover a lot of ground relativce to searching on traditional websites.
+This loophole gave me an idea on starting a research campaign where I can learn how to build my own blockchain. With the help of AI, I can cover a lot of ground relative to searching on traditional websites.
 
 The name of my blockchain is called Dianome Blockchain with native currency DIA or NOM. What we are prioritizing is equal and fair rewards for validators. 
+
+Also, what I learnt is that AI data centers consume a lot of energy relative to Bitcoin mining. Why did they not get criticized. The reason being that BTC only benefits a smaller community whereas AI benefits multibillion dollar industries, small to medium sized corporations, and average users. Interesting isn't it?
