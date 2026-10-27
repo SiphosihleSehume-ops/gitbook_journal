@@ -81,3 +81,9 @@ This loophole gave me an idea on starting a research campaign where I can learn 
 The name of my blockchain is called Dianome Blockchain with native currency DIA or NOM. What we are prioritizing is equal and fair rewards for validators. 
 
 Also, what I learnt is that AI data centers consume a lot of energy relative to Bitcoin mining. Why did they not get criticized. The reason being that BTC only benefits a smaller community whereas AI benefits multibillion dollar industries, small to medium sized corporations, and average users. Interesting isn't it?
+
+# Day 2
+
+Today I got to dive deep into supply chain management. Through extensive research I got to understand real-world challeges faced by the supply chain industry with one major problem being counterfeiting of goods especially in the pharamceutical industry. 
+
+This research shedded some light on the potential billion dollar loopholes that could be taken advantage of through proper design and implementation of a dApp that will bring about a solution to this problem and combact the counterfeiting of goods. 
